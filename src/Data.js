@@ -3,7 +3,7 @@ const data = {
   items: [
     {
       id: 1,
-      title: "Chompa otaku chida",
+      title: "Sudadera para niños, con capucha, mangas largas",
       price: 20,
       image: require('./images/img01.jpg'),
       category: "nike",
@@ -13,7 +13,7 @@ const data = {
     },
     {
       id: 2,
-      title: "Nike Dunk Low Off-White Pine Green",
+      title: "Naruto Sudadera de estilo de impresión en 3d",
       price: 25,
       image: require('./images/img02.jpg'),
       category: "nike",
@@ -23,7 +23,7 @@ const data = {
     },
     {
       id: 3,
-      title: "Nike Air Force 1 Low Supreme Black",
+      title: "Buzo con capucha de One Piece ",
       price: 20,
       image: require('./images/img03.jpg'),
       category: "nike",
@@ -33,7 +33,7 @@ const data = {
     },
     {
       id: 4,
-      title: "Nike LD Waffle Sacai White Nylon",
+      title: "Suéter con capucha suelto informal",
       price: 20,
       image: require('./images/img04.jpg'),
       category: "nike",
@@ -43,7 +43,7 @@ const data = {
     },
     {
       id: 5,
-      title: "Nike Dunk Low SP Kentucky (2021)",
+      title: "My-Hero-Academia Sudadera con capucha",
       price: 20,
       image: require('./images/img05.jpg'),
       category: "nike",
@@ -53,7 +53,7 @@ const data = {
     },
     {
       id: 6,
-      title: "Nike Dunk Low Off-White University",
+      title: "Bata de Akatsuki",
       price: 35,
       image: require('./images/img06.jpg'),
       category: "nike",
@@ -63,7 +63,7 @@ const data = {
     },
     {
       id: 7,
-      title: "Nike Air Max 2 Light Atmos",
+      title: "Urban casual style",
       price: 15,
       image: require('./images/img07.jpg'),
       category: "nike",
@@ -73,7 +73,7 @@ const data = {
     },
     {
       id: 8,
-      title: "Nike Air Force 1 Low CLOT Blue Silk",
+      title: "Sudadera con capucha con cordón impreso",
       price: 30,
       image: require('./images/img08.jpg'),
       category: "nike",
@@ -83,7 +83,7 @@ const data = {
     },
     {
       id: 9,
-      title: "Nike Air Max 90 OG Volt (2020)",
+      title: "sudaderas con capucha de impresión digital. Hora de Aventura",
       price: 20,
       image: require('./images/img09.jpg'),
       category: "nike",
@@ -93,7 +93,7 @@ const data = {
     },
     {
       id: 10,
-      title: "Nike Dunk High Varsity Maize",
+      title: "Corte Normal, manga corta, Monokuma",
       price: 20,
       image: require('./images/img10.jpg'),
       category: "nike",
@@ -103,7 +103,7 @@ const data = {
     },
     {
       id: 11,
-      title: "Nike Air Rubber Dunk Off-White UNC",
+      title: "Cuello redondo, kerberos-Sakura Cardcaptor",
       price: 15,
       image: require('./images/img011.jpg'),
       category: "nike",
